@@ -248,6 +248,7 @@ p {
   line-height: 2;
   margin-top: 20px;
   text-align: justify;
+  font-size: 1.2rem;
 }
 
 /* SECTION 3 */
@@ -308,7 +309,7 @@ p {
 }
 
 .icons-footer {
-  grid-column: 1 / 4;
+  grid-column: 2 / 5;
   display: inline;
 }
 
